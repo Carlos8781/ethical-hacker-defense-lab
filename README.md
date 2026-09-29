@@ -25,15 +25,19 @@ node node/dependency-audit.js --help
 
 Os scripts são deliberadamente limitados a verificações locais e a alvos autorizados.
 
-## Temas planejados
+## Guias diários
 
-1. Integridade de arquivos com SHA-256.
-2. Auditoria segura de dependências Node.js.
-3. Senhas: armazenamento correto e prevenção de segredos no código.
-4. Cabeçalhos de segurança em aplicações web próprias.
-5. Backups, logs e resposta a incidentes.
-6. Princípio do menor privilégio.
-7. Detecção de segredos acidentalmente versionados.
+- [Dia 001 — Integridade de arquivos](daily/001-integridade-de-arquivos.md)
+- [Dia 002 — Detecção local de segredos](daily/002-detectando-segredos-locais.md)
+- [Dia 003 — Auditoria local de dependências](daily/003-auditoria-dependencias-locais.md)
+- [Dia 004 — Cabeçalhos de segurança locais](daily/004-cabecalhos-seguranca-local.md)
+- [Dia 005 — Integridade de backups locais](daily/005-verificacao-integridade-backup-local.md)
+- [Dia 006 — Auditoria de permissões locais](daily/006-auditoria-permissoes-locais.md)
+- [Dia 007 — Triagem de logs locais](daily/007-triagem-logs-locais.md)
+- [Dia 008 — Baseline de configuração local](daily/008-verificacao-baseline-config-local.md)
+- [Dia 009 — Revisão da cobertura de MFA](daily/009-revisao-cobertura-mfa-local.md)
+- [Dia 010 — Revisão local do ciclo de atualizações](daily/010-revisao-local-ciclo-atualizacoes.md)
+- [Dia 011 — Exercício de mesa para resposta a incidentes](daily/011-exercicio-mesa-resposta-incidentes.md)
 
 ## Licença
 
