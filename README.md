@@ -38,6 +38,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 009 — Revisão da cobertura de MFA](daily/009-revisao-cobertura-mfa-local.md)
 - [Dia 010 — Revisão local do ciclo de atualizações](daily/010-revisao-local-ciclo-atualizacoes.md)
 - [Dia 011 — Exercício de mesa para resposta a incidentes](daily/011-exercicio-mesa-resposta-incidentes.md)
+- [Dia 012 — Minimização de dados em logs locais](daily/012-minimizacao-dados-logs-locais.md)
 
 ## Licença
 
