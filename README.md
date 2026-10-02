@@ -40,6 +40,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 011 — Exercício de mesa para resposta a incidentes](daily/011-exercicio-mesa-resposta-incidentes.md)
 - [Dia 012 — Minimização de dados em logs locais](daily/012-minimizacao-dados-logs-locais.md)
 - [Dia 013 — Revisão local de testes de restauração de backups](daily/013-revisao-local-testes-restauracao.md)
+- [Dia 014 — Revisão local de acessos privilegiados](daily/014-revisao-acessos-privilegiados-local.md)
 
 ## Licença
 
