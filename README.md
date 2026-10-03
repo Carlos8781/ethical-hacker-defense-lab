@@ -41,6 +41,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 012 — Minimização de dados em logs locais](daily/012-minimizacao-dados-logs-locais.md)
 - [Dia 013 — Revisão local de testes de restauração de backups](daily/013-revisao-local-testes-restauracao.md)
 - [Dia 014 — Revisão local de acessos privilegiados](daily/014-revisao-acessos-privilegiados-local.md)
+- [Dia 015 — Verificação local da integridade de exportações de logs](daily/015-verificacao-integridade-logs-locais.md)
 
 ## Licença
 
