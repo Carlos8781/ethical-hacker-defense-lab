@@ -44,6 +44,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 015 — Verificação local da integridade de exportações de logs](daily/015-verificacao-integridade-logs-locais.md)
 - [Dia 016 — Revisão de baseline de hardening SSH local](daily/016-revisao-baseline-ssh-local.md)
 - [Dia 017 — Revisão defensiva de arquivos ZIP antes da restauração](daily/017-revisao-segura-arquivos-zip-locais.md)
+- [Dia 018 — Revisão local da validade de certificados TLS](daily/018-revisao-validade-certificados-tls-locais.md)
 
 ## Licença
 
