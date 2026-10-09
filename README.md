@@ -47,6 +47,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 018 — Revisão local da validade de certificados TLS](daily/018-revisao-validade-certificados-tls-locais.md)
 - [Dia 019 — Revisão local de permissões de arquivos sensíveis](daily/019-revisao-permissoes-arquivo-sensivel.md)
 - [Dia 020 — Verificação local da atualidade de um backup](daily/020-verificacao-atualidade-backup-local.md)
+- [Dia 021 — Revisão local de retenção e rotação de logs](daily/021-revisao-retencao-logs-local.md)
 
 ## Licença
 
