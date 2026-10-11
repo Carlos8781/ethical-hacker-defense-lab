@@ -49,6 +49,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 020 — Verificação local da atualidade de um backup](daily/020-verificacao-atualidade-backup-local.md)
 - [Dia 021 — Revisão local de retenção e rotação de logs](daily/021-revisao-retencao-logs-local.md)
 - [Dia 022 — Validação local de política de backup](daily/022-validacao-politica-backup-local.md)
+- [Dia 023 — Revisão local de alertas de autenticação](daily/023-revisao-alertas-autenticacao-local.md)
 
 ## Licença
 
