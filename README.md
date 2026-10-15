@@ -53,6 +53,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 024 — Manifesto local de evidências para revisão autorizada](daily/024-manifesto-evidencias-locais.md)
 - [Dia 025 — Verificação local de hash de artefatos](daily/025-verificacao-hash-artefatos-locais.md)
 - [Dia 026 — Revisão local da consistência temporal de logs](daily/026-revisao-consistencia-temporal-logs.md)
+- [Dia 027 — Validação local de restauração de backup](daily/027-validacao-restauracao-backup-local.md)
 
 ## Licença
 
