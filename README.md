@@ -55,6 +55,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 026 — Revisão local da consistência temporal de logs](daily/026-revisao-consistencia-temporal-logs.md)
 - [Dia 027 — Validação local de restauração de backup](daily/027-validacao-restauracao-backup-local.md)
 - [Dia 028 — Revisão local de regras de exclusão Git](daily/028-revisao-regras-exclusao-git-local.md)
+- [Dia 029 — Revisão local da cobertura de eventos de auditoria](daily/029-revisao-cobertura-logs-auditoria-local.md)
 
 ## Licença
 
