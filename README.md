@@ -58,6 +58,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 029 — Revisão local da cobertura de eventos de auditoria](daily/029-revisao-cobertura-logs-auditoria-local.md)
 - [Dia 030 — Revisão local de minimização de dados em logs](daily/030-revisao-minimizacao-dados-logs.md)
 - [Dia 031 — Revisão local de permissões de diretório de backup](daily/031-revisao-permissoes-diretorio-backup.md)
+- [Dia 032 — Revisão local de política CORS](daily/032-revisao-politica-cors-local.md)
 
 ## Licença
 
