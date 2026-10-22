@@ -60,6 +60,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 031 — Revisão local de permissões de diretório de backup](daily/031-revisao-permissoes-diretorio-backup.md)
 - [Dia 032 — Revisão local de política CORS](daily/032-revisao-politica-cors-local.md)
 - [Dia 033 — Revisão local da consistência temporal de logs JSONL](daily/033-revisao-integridade-temporal-logs-jsonl.md)
+- [Dia 034 — Revisão local de hardening de unidades systemd](daily/034-revisao-hardening-systemd-local.md)
 
 ## Licença
 
