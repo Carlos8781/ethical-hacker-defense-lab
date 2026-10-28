@@ -66,6 +66,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 037 — Revisão local da completude de um inventário CycloneDX (SBOM)](daily/037-revisao-completude-sbom-local.md)
 - [Dia 038 — Validação offline de cadeia de certificados TLS](daily/038-validacao-offline-cadeia-certificados.md)
 - [Dia 039 — Revisão local da configuração de sincronização de horário](daily/039-revisao-sincronizacao-horario-local.md)
+- [Dia 040 — Revisão local de permissões de configuração](daily/040-revisao-permissoes-config-local.md)
 
 ## Licença
 
