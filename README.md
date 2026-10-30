@@ -68,6 +68,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 039 — Revisão local da configuração de sincronização de horário](daily/039-revisao-sincronizacao-horario-local.md)
 - [Dia 040 — Revisão local de permissões de configuração](daily/040-revisao-permissoes-config-local.md)
 - [Dia 041 — Revisão local de baseline do firewall UFW](daily/041-revisao-baseline-firewall-ufw-local.md)
+- [Dia 042 — Revisão local de hardening de Dockerfile](daily/042-revisao-hardening-dockerfile-local.md)
 
 ## Licença
 
