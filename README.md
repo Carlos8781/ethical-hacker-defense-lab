@@ -72,6 +72,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 043 — Revisão local de permissões em workflows GitHub Actions](daily/043-revisao-permissoes-workflows-actions-local.md)
 - [Dia 044 — Revisão local de referências imutáveis em GitHub Actions](daily/044-revisao-refs-imutaveis-actions-local.md)
 - [Dia 045 — Revisão local de artefatos de CI](daily/045-revisao-artefatos-ci-local.md)
+- [Dia 046 — Verificação local de isolamento de ambientes Python](daily/046-verificacao-isolamento-python-local.md)
 
 ## Licença
 
