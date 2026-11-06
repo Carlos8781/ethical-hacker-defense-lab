@@ -75,6 +75,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 046 — Verificação local de isolamento de ambientes Python](daily/046-verificacao-isolamento-python-local.md)
 - [Dia 047 — Revisão local de hardening do Docker Compose](daily/047-revisao-hardening-compose-local.md)
 - [Dia 048 — Revisão local de permissões de arquivos](daily/048-revisao-permissoes-arquivos-locais.md)
+- [Dia 049 — Validação estrita de opções de segurança em JSON local](daily/049-validacao-estrita-configuracao-json-local.md)
 
 ## Licença
 
