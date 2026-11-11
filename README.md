@@ -79,6 +79,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 050 — Resumo minimizado de eventos de incidentes](daily/050-relatorio-minimizado-incidentes-jsonl.md)
 - [Dia 051 — Revisão local da cobertura de eventos de auditoria JSONL](daily/051-revisao-cobertura-eventos-auditoria-jsonl-local.md)
 - [Dia 052 — Verificação local de integridade de um banco SQLite](daily/052-verificacao-integridade-sqlite-local.md)
+- [Dia 053 — Arquivos temporários privados para auditoria local](daily/053-arquivos-temporarios-privados-auditoria-local.md)
 
 ## Licença
 
