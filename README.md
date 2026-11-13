@@ -81,6 +81,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 052 — Verificação local de integridade de um banco SQLite](daily/052-verificacao-integridade-sqlite-local.md)
 - [Dia 053 — Arquivos temporários privados para auditoria local](daily/053-arquivos-temporarios-privados-auditoria-local.md)
 - [Dia 054 — Revisão local de atributos de cookies](daily/054-revisao-atributos-cookies-local.md)
+- [Dia 055 — Validação local de checklist de resposta a incidentes](daily/055-validacao-checklist-resposta-incidentes.md)
 
 ## Licença
 
