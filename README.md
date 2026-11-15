@@ -83,6 +83,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 054 — Revisão local de atributos de cookies](daily/054-revisao-atributos-cookies-local.md)
 - [Dia 055 — Validação local de checklist de resposta a incidentes](daily/055-validacao-checklist-resposta-incidentes.md)
 - [Dia 056 — Revisão local de cache para conteúdo sensível](daily/056-revisao-cache-conteudo-sensivel-local.md)
+- [Dia 057 — Revisão local de links simbólicos em área de restauração](daily/057-revisao-links-simbolicos-restauracao-local.md)
 
 ## Licença
 
