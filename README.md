@@ -89,6 +89,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 060 — Revisão offline de proteção de branch](daily/060-revisao-protecao-branch-json-local.md)
 - [Dia 061 — Validação local de objetivos de recuperação (RTO/RPO)](daily/061-validacao-local-rto-rpo.md)
 - [Dia 062 — Validação local de manifesto de backup](daily/062-validacao-manifesto-backup-local.md)
+- [Dia 063 — Revisão local de contas de serviço sem uso recente](daily/063-revisao-contas-servico-inativas-local.md)
 
 ## Licença
 
