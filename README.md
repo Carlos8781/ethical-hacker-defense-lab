@@ -94,6 +94,7 @@ Os scripts são deliberadamente limitados a verificações locais e a alvos auto
 - [Dia 065 — Validação local de digests de imagens de contêiner](daily/065-validacao-digests-imagens-container-local.md)
 - [Dia 066 — Revisão local de divergências em inventário de serviços](daily/066-revisao-inventario-servicos-local.md)
 - [Dia 067 — Revisão local de ações de resposta a incidentes](daily/067-revisao-acoes-incidentes-local.md)
+- [Dia 068 — Validação local de política de capacidade para logs](daily/068-validacao-politica-capacidade-logs-local.md)
 
 ## Licença
 
